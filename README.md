@@ -52,7 +52,7 @@ $$\begin{equation}
   f(x) =
     \begin{cases}
       x & |x|<1\\
-      0 & x=1\\
+      0 & |x|=1\\
     \end{cases}       
 \end{equation}$$
 
