@@ -56,8 +56,10 @@ Which of this function are the solution to the above PDE?
 #### Solution
 Just plug in the mentioned functions.
 
-$$\frac{\partial^2 u_1}{\partial x^2}-\frac{\partial^2 u_1}{\partial y^2} = 4(x^2-y^2)\cos(2xy) \neq 0 $$ <br>
-$$\frac{\partial^2 u_2}{\partial x^2}-\frac{\partial^2 u_2}{\partial y^2} = x^4-4x^2y^2 \sin(x^2y) \neq 0 $$ <br>
+$$\frac{\partial^2 u_1}{\partial x^2}-\frac{\partial^2 u_1}{\partial y^2} = 4(x^2-y^2)\cos(2xy) \neq 0 $$ 
+
+$$\frac{\partial^2 u_2}{\partial x^2}-\frac{\partial^2 u_2}{\partial y^2} = x^4-4x^2y^2 \sin(x^2y) \neq 0 $$ 
+
 $$\frac{\partial^2 u_3}{\partial x^2}-\frac{\partial^2 u_3}{\partial y^2} = 4(x^2 -y^2)\sin(x^2y) \neq 0 $$ <br>
 
 Ans: None of the functions.
