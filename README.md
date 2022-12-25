@@ -77,3 +77,10 @@ $$\frac{\partial^2 u_3}{\partial x^2}-\frac{\partial^2 u_3}{\partial y^2} = 4(x^
 Ans: None of the functions.
 
 ## 21.
+A bag contains 50 balls, of which 20 are red and 30 are green. The average (mean) mass for all the balls is $\bar{x}$
+kg, and the mean mass for the red balls is $\bar{x}_R$ kg. The mean mass for the green balls is
+
+#### Solution
+$\bar{x}_G=\frac{Total mass of green ball}{total amount of green ball}= \frac{50*\bar{x}-20*\bar{x}_R}{30}$
+
+## 22.
