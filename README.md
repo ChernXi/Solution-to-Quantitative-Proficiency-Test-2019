@@ -31,3 +31,13 @@ $$\begin{aligned}
 \end{aligned}$$
 
 ## 19.
+For each $n=1,2,3,...$ define  <br>
+$f_n(x):=x(1-x^2n)$ for every $x\in[-1,1]$. <br>
+
+Then the function f defined by <br>
+$f(x):=\lim_{n\to\infty} f_n(x)$ <br>
+exists for each $x\in[-1,1]$ and is equal to
+
+####Solution
+
+
