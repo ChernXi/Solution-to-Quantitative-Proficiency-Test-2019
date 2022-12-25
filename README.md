@@ -30,6 +30,8 @@ $$\begin{aligned}
 &= \frac{1}{3} \\
 \end{aligned}$$
 
+Ans: $\frac{1}{3}$
+
 ## 19.
 For each $n=1,2,3,...$ define  <br>
 $f_n(x):=x(1-x^{2n})$ for every $x\in[-1,1]$. <br>
@@ -43,6 +45,16 @@ When $x=\pm1$: <br>
 $f(1):=\lim_{n\to\infty} 1(1-\pm 1^{2n})= \lim_{n\to\infty} 1(1-1^{n})=0$ since $1^{\infty}= 1$ <br>
 When $-1 < x < 1$: <br>
 $f(x):=\lim_{n\to\infty} x(1-x^{2n})=0$ since $x^{\infty}=x$ for every $x\in(-1,1)$
+
+Ans: 
+
+$$\begin{equation}
+  f(x) =
+    \begin{cases}
+      x & |x|<1\\
+      0 & x=1\\
+    \end{cases}       
+\end{equation}$$
 
 ## 20.
 Consider thw following partial differential equation:<br>
