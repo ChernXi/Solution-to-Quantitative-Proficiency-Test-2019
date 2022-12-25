@@ -42,6 +42,7 @@ exists for each $x\in[-1,1]$ and is equal to
 When $x=\pm1$: <br>
 $f(1):=\lim_{n\to\infty} 1(1-\pm 1^{2n})= \lim_{n\to\infty} 1(1-1^{n})=0$ since $1^{\infty}= 1$
 When $x<1$: <br>
-$f(x):=\lim_{n\to\infty} x(1-x^{2n})=0$ since $x^{\infty}=0$ for every $x\in(-1,1)$
+$f(x):=\lim_{n\to\infty} x(1-x^{2n})=0$ since $x^{\infty}=x$ for every $x\in(-1,1)$
 
+## 20.
 
