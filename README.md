@@ -81,6 +81,6 @@ A bag contains 50 balls, of which 20 are red and 30 are green. The average (mean
 kg, and the mean mass for the red balls is $\bar{x}_R$ kg. The mean mass for the green balls is
 
 #### Solution
-$\bar{x}_G=\frac{Total mass of green ball}{total amount of green ball}= \frac{50*\bar{x}-20*\bar{x}_R}{30}$
+$$\bar{x}_G=\frac{Total\\; mass\\; of\\; green\\; ball}{total\\; amount\\; of\\; green\\; ball}= \frac{50*\bar{x}-20*\bar{x}_R}{30}$$
 
 ## 22.
