@@ -98,7 +98,7 @@ We can also guess the answer since standard deviation is usually much lower than
 ## 23.
 A magician has 20 coins in his pocket. Twelve of these coins are normal fair coins (with one head and one
 tail) and eight are defective coins with heads on both sides. The magician randomly draws a coin from his
-pocket and ips it. Given that the ipped coin shows a head, what is the probability that it is defective?
+pocket and flips it. Given that the flipped coin shows a head, what is the probability that it is defective?
 
 #### Solution
 This is a typical example of the application of conditional probability:
