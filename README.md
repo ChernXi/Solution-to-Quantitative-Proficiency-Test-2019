@@ -92,7 +92,7 @@ Standard Deviation Formula:
 
 $$ \sigma=\sqrt{\frac{\sum (x_i-\bar{x})^2}{n}} $$
 
-Put the figure into it, we get $\sigma=20.91$. <br>
+Calculate the mean, $\bar{x}$ and put the marks into the equation, we get $\sigma=20.91$. <br>
 We can also guess the answer since standard deviation is usually much lower than the mean.
 
 ## 23.
