@@ -117,3 +117,11 @@ heavy?
 #### Solution
 
 $$ P(Red \cup Heavy) = \frac{N(Red \cup Heavy)}{Total\\;number\\;of\\;balls}= \frac{ 8 + 3 }{20} = \frac{11}{20} $$
+
+## 25
+A jar contains 5 red balls and 12 blue balls. Two balls are drawn at random from the hat without replacement.
+What is the probability that both balls drawn are red?
+
+#### Solution
+
+$$ P(both\\;balls\\;drawn\\;are\\;red)=\frac{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;five\\;red\\;balls}{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;all\\;seventeen\\;balls}= \frac{\binom{5}{2}}{\binom{17}{2}} $$
