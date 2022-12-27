@@ -101,5 +101,13 @@ tail) and eight are defective coins with heads on both sides. The magician rando
 pocket and ips it. Given that the ipped coin shows a head, what is the probability that it is defective?
 
 #### Solution
-This is a typical example of the application of Bayes Theorem:
+This is a typical example of the application of conditional probability:
+
+$$ P(B|A)=\frac{P(B \cap A)}{P(A)} $$
+
+Hence,
+
+$$ P(defective|head)=\frac{P(defective \cap head)}{P(head)}=\frac{8/20}{28/40}=\frac{4}{7} $$
+
+## 24.
 
