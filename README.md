@@ -124,4 +124,4 @@ What is the probability that both balls drawn are red?
 
 #### Solution
 
-$$ P(both\\;balls\\;drawn\\;are\\;red)=\frac{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;five\\;red\\;balls}{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;all\\;seventeen\\;balls}= \frac{\binom{5}{2}}{\binom{17}{2}} $$
+$$ P(both\\;balls\\;drawn\\;are\\;red)=\frac{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;five\\;red\\;balls\\;(order\\;doesn't\\;matter)}{Total\\;ways\\;of\\;getting\\;two\\;balls\\;from\\;all\\;seventeen\\;balls\\;(order\\;doesn't\\;matter)}= \frac{\binom{5}{2}}{\binom{17}{2}} $$
