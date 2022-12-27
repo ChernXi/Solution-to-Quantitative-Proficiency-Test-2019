@@ -107,7 +107,7 @@ $$ P(B|A)=\frac{P(B \cap A)}{P(A)} $$
 
 Hence,
 
-$$ P(defective|head)=\frac{P(defective \cap head)}{P(head)}=\frac{8/20}{28/40}=\frac{4}{7} $$
+$$ P(defective|head)=\frac{P(defective \cap head)}{P(head)}=\frac{16/40}{28/40}=\frac{4}{7} $$
 
 ## 24.
 
