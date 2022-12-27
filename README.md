@@ -84,3 +84,13 @@ kg, and the mean mass for the red balls is $\bar{x}_R$ kg. The mean mass for the
 $$\bar{x}_G=\frac{Total\\; mass\\; of\\; green\\; ball}{Total\\; amount\\; of\\; green\\; ball}= \frac{50*\bar{x}-20*\bar{x}_R}{30}$$
 
 ## 22.
+A group of 10 students received the following marks for a test: 58, 89,65, 78, 55,26,93,46,43,59. 
+The standard deviation of their marks is (to two decimal places)
+
+#### Solution
+Standard Deviation Formula:
+
+$$ \sigma=\sqrt{\frac{\sum (x_i-\bar{x})^2}{n}} $$
+
+Put the figure into it, we get $\sigma=20.91$. 
+We can also guess the answer since standard deviation is usually much lower than the mean.
