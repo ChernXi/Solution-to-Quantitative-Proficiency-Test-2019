@@ -116,4 +116,4 @@ heavy?
 
 #### Solution
 
-## P(Red \cup Heavy) = \frac{N(Red \cup Heavy)}{Total number of balls}= \frac{ 8 + 3 }{20} = \frac{11}{20}
+$$ P(Red \cup Heavy) = \frac{N(Red \cup Heavy)}{Total number of balls}= \frac{ 8 + 3 }{20} = \frac{11}{20} $$
