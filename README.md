@@ -110,4 +110,10 @@ Hence,
 $$ P(defective|head)=\frac{P(defective \cap head)}{P(head)}=\frac{16/40}{28/40}=\frac{4}{7} $$
 
 ## 24.
+A bag contains 20 balls: 8 red balls and 12 blue balls. Six of these balls are classied as "heavy", and three of
+the heavy balls are red. If a ball is chosen at random from the bag, what is the probability that it is red or
+heavy?
 
+#### Solution
+
+## P(Red \cup Heavy) = \frac{N(Red \cup Heavy)}{Total number of balls}= \frac{ 8 + 3 }{20} = \frac{11}{20}
