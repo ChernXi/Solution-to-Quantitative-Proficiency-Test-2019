@@ -136,6 +136,21 @@ A magician has a collection of 52 cards, with 26 red and 26 black cards. Four of
 probability that the card is special or red?
 
 #### Solution
-similar to question 24.
+Similar to question 24.
 
 $$ P(Special \cup Red) = \frac{N(Special \cup Red)}{Total\\;number\\;of\\;cards}= \frac{ 2 + 26 }{52} = \frac{28}{52} $$
+
+## 27.
+A class has 30 girls and 22 boys. A teacher selects 15 students at random from the class to participate in a
+competition. What is the probability that out of the 15 selected students, 6 of them are boys?
+
+#### Solution
+Similar to question 25. 
+
+$$ P(6\\;boys\\;from\\;15\\;students)=\frac{Total\\;ways\\;of\\;choosing\\;6\\;boys\\;out\\;of\\;22\\;(order\\;doesn't\\;matter) \times Total\\;ways\\;of\\;choosing\\;9\\;girls\\;out\\;of\\;30\\;(order\\;doesn't\\;matter)}{Total\\;ways\\;of\\;choosing\\;15\\;students\\;out\\;of\\;52\\;(order\\;doesn't\\;matter)}= \frac{\binom{22}{6} \times \binom{30}{9}}{\binom{52}{15}} $$
+
+(It is easy to see that this method can be easily generalized to more complicated situations).<br>
+We can also solve this by using a binomial probability formula:
+
+$$ P(6\\;boys\\;from\\;15\\;students)=\binom{15}{6} \times (22/52)^6 \times (30/52)^9 $$
+
