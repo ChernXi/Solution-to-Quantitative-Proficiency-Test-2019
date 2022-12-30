@@ -25,7 +25,7 @@ $$\begin{aligned}
 Subs. $u=x^3$, $du = 3x^2 dx$, and the boundary changed to $0 \leq u \leq \infty$, we have:
 
 $$\begin{aligned}
-&= \int_{u=0}^{u=\infty} \frac{1}{3} e^{-u} du \\ 
+&\int_{u=0}^{u=\infty} \frac{1}{3} e^{-u} du \\ 
 &= \frac{1}{3} \left[-e^{-u}]\right\vert_0^{\infty} \\
 &= \frac{1}{3} \\
 \end{aligned}$$
@@ -147,7 +147,11 @@ competition. What is the probability that out of the 15 selected students, 6 of 
 #### Solution
 Similar to question 25. 
 
-$$ P(6\\;boys\\;from\\;15\\;students)=\frac{Total\\;ways\\;of\\;choosing\\;6\\;boys\\;out\\;of\\;22\\;(order\\;doesn't\\;matter) \times Total\\;ways\\;of\\;choosing\\;9\\;girls\\;out\\;of\\;30\\;(order\\;doesn't\\;matter)}{Total\\;ways\\;of\\;choosing\\;15\\;students\\;out\\;of\\;52\\;(order\\;doesn't\\;matter)}= \frac{\binom{22}{6} \times \binom{30}{9}}{\binom{52}{15}} $$
+$$\begin{aligned}
+&P(6\\;boys\\;from\\;15\\;students) \\
+&=\frac{Total\\;ways\\;of\\;choosing\\;6\\;boys\\;out\\;of\\;22\\;(order\\;doesn't\\;matter) \times Total\\;ways\\;of\\;choosing\\;9\\;girls\\;out\\;of\\;30\\;(order\\;doesn't\\;matter)}{Total\\;ways\\;of\\;choosing\\;15\\;students\\;out\\;of\\;52\\;(order\\;doesn't\\;matter)} \\
+&= \frac{\binom{22}{6} \times \binom{30}{9}}{\binom{52}{15}} \\
+\end{aligned}$$
 
 (It is easy to see that this method can be easily generalized to more complicated situations).<br>
 We can also solve this by using a binomial probability formula:
