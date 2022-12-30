@@ -154,9 +154,9 @@ $$\begin{aligned}
 \end{aligned}$$
 
 (It is easy to see that this method can be easily generalized to more complicated situations).<br>
-Noted that we **CANNOT** solve this by using a binomial probability formula, such that:
+Noted that we **cannot** solve this by using a binomial probability formula, such that:
 
 $$ P(6\\;boys\\;from\\;15\\;students)=\binom{15}{6} \times (22/52)^6 \times (30/52)^9 $$
 
-because binomial probability is using for independent events, while in our case here, all student being chosen will not be put back, so the probability of choosing a boy will not be the same after a boy is chosen. Same goes to girl. Be careful when applying this formula.
+because binomial probability formula is using for **independent** events, while in our case here, all student being chosen will not be put back, so the probability of choosing a boy will not be the same after a boy is chosen. Same goes to girl. Be careful when applying this formula.
 
