@@ -138,4 +138,4 @@ probability that the card is special or red?
 #### Solution
 similar to question 24.
 
-$$ P(Special \cup Red) = \frac{N(Special \cup Red)}{Total\\;number\\;of\\;cards}= \frac{ 2 + 26 }{52} = \frac{11}{20} $$
+$$ P(Special \cup Red) = \frac{N(Special \cup Red)}{Total\\;number\\;of\\;cards}= \frac{ 2 + 26 }{52} = \frac{28}{52} $$
