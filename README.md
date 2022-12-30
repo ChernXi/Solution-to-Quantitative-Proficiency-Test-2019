@@ -160,3 +160,15 @@ $$ P(6\\;boys\\;from\\;15\\;students)=\binom{15}{6} \times (22/52)^6 \times (30/
 
 because binomial probability formula is using for **independent** events, while in our case here, all student being chosen will not be put back, so the probability of choosing a boy will not be the same after a boy is chosen. Same goes to girl. Be careful when applying this formula.
 
+##28.
+The random variable X has the following probability density function:
+
+$$\begin{equation}
+  f_X(x) =
+    \begin{cases}
+      \frac{c}{x^2} & 1\leq x \leq \infty\\
+      0 & elsewhere\\
+    \end{cases}       
+\end{equation}$$
+
+where c is a constant. Find P(X>25)
