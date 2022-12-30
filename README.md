@@ -131,3 +131,11 @@ Also, you may immediately perceive the answer to be:
 $$ \frac{5}{17} \times \frac{4}{16} = \frac{5 \times 4}{17 \times 16} = \frac{\binom{5}{2}}{\binom{17}{2}} $$
 
 ## 26.
+A magician has a collection of 52 cards, with 26 red and 26 black cards. Four of these cards are classied as
+'special', and two of the special cards are red. If a card is chosen at random from the 52 cards, what is the
+probability that the card is special or red?
+
+#### Solution
+similar to question 24.
+
+$$ P(Special \cup Red) = \frac{N(Special \cup Red)}{Total\\;number\\;of\\;cards}= \frac{ 2 + 26 }{52} = \frac{11}{20} $$
